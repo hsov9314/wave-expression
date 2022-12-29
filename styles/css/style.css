@@ -1,0 +1,15 @@
+#container{
+    /* height: 100%;  */
+    font-family: "Noto Sans JP";
+    text-align: center;
+}
+
+#water{
+    height: 60%;
+    background-color: #9fd3c7;
+}
+
+#beach{
+    height: 40%;
+    background-color: #ececec;
+}
